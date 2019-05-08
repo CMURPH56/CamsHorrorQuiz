@@ -16,9 +16,6 @@
   </section>
 </template>
 
-<script>
-</script>
-
 <style>
 .container {
   background-color: black;
